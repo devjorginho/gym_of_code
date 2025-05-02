@@ -46,4 +46,4 @@ The program works directly in the terminal (Linux) or the Windows interface.
 
 Developed by: **devjorginho**
 
-GitHub: [https://github.com/devjorginho](https://github.com/devjorginho/gym_of_code)
+GitHub: [https://github.com/devjorginho](https://github.com/devjorginho/)
